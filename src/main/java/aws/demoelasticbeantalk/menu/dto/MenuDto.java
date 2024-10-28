@@ -39,4 +39,5 @@ public class MenuDto {
         this.categoryCode = menu.getCategoryCode();
         this.orderableStatus = menu.getOrderableStatus();
     }
+
 }
